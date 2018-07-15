@@ -1,0 +1,29 @@
+{
+  "name": "express-api-starter",
+  "version": "1.0.0",
+  "description": "A quick way to start your express api in a modern way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayorinde/express-api-starter.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "api",
+    "javascript"
+  ],
+  "author": "Ayorinde Kudoro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayorinde/express-api-starter/issues"
+  },
+  "homepage": "https://github.com/Ayorinde/express-api-starter#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.3"
+  }
+}
